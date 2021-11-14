@@ -3,8 +3,8 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **MYSELF**
-- 🌱 I’m currently learning **Data Structures, Algorithms, Programming Languages etc**
+- 🔭 I’m currently working on **MYSELF.**
+- 🌱 I’m currently learning **Data Structures, Algorithms, Programming Languages etc...**
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 - ⚡ **MAD_MAN**
 ## 🚀 Languages and Tools:
