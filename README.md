@@ -31,7 +31,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.instagram.com/21_koubi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/_21_biswas/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/Koushik.Biswas.21/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNvwJwWPCGrcKNwxDSzkHWTNkfvJHnCNbdDdFmJbTbbdFPZppBRTPnMFqHcjZhfkfmLxxV"><img src="https://img.icons8.com/fluency/48/000000/mail.png"/>
 
