@@ -32,8 +32,9 @@
      <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/">  
          <img width="80" height="80" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
      </a>
-</p>
-<strong>Current Workstation:</strong> <br>
+</p> <br>
+<h3><strong>Current Workstation:</strong></h3> 
+<br>
 <a href="https://playon24.com.bd/">  
     <img width="80" height="80" src="https://playon24.com.bd/img/logo.png" alt="PlayOn24"/>
 </a>
