@@ -11,7 +11,7 @@
 <h3>🎮<strong>Programming Languages I've been practicing</strong></h3> 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank">
-        <img width="100" height="100" src="https://img.icons8.com/stickers/100/sql.png" alt="sql"/> </a>
+        <img width="80" height="80" src="https://img.icons8.com/stickers/100/sql.png" alt="sql"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/80/000000/javascript.png"/> </a> 
@@ -32,8 +32,11 @@
      <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/">  
          <img width="80" height="80" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
      </a>
-</p> <br>
+</p> 
 <h3>🎮<strong>Database experience Field:</strong></h3> 
+<a href="https://www.mongodb.com/" target="_blank">
+    <img width="50" height="50" src="https://img.icons8.com/ios/50/mysql.png" alt="mysql"/>
+</a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> </a> 
 <h3>🎮<strong>Current Workstation:</strong></h3> 
 <div style="Padding-top:0px">
@@ -41,6 +44,8 @@
     <img width="80" height="60" src="https://playon24.com.bd/img/logo.png" alt="PlayOn24"/>
 </a>
 </div>
+
+<br>
 ## Connect with me:
 <p align="left">
 <a href = "https://www.facebook.com/Koushik.Biswas.21/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
