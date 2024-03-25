@@ -27,9 +27,11 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/80/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" 
        width="80" height="80"/>  </a>
-     <a href="https://redux.js.org" target="_blank">  <img src="https://img.icons8.com/color/80/000000/c-plus-plus-logo.png"/> </a>
-     <a href="https://redux.js.org" target="_blank">    <img src="https://img.icons8.com/color/80/000000/c-programming.png"/> </a>
-     <a href="https://redux.js.org" target="_blank"> <img src="https://icons8.com/icon/45490/c-sharp-logo-2"/> </a>
+     <a href="https://cplusplus.com" target="_blank">  <img src="https://img.icons8.com/color/80/000000/c-plus-plus-logo.png"/> </a>
+     <a href="https://www.w3schools.com/c/" target="_blank">    <img src="https://img.icons8.com/color/80/000000/c-programming.png"/> </a>
+     <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/">  
+         <img width="80" height="80" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
+     </a>
 </p>
 
 
