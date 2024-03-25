@@ -33,6 +33,7 @@
          <img width="80" height="80" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
      </a>
 </p> <br>
+<img width="80" height="80" src="https://img.icons8.com/3d-fluency/94/controller.png" alt="controller"/>
 <h3><strong>Current Workstation:</strong></h3> 
 <div style="Padding-top:0px">
 <a href="https://playon24.com.bd/">  
