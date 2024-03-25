@@ -22,7 +22,7 @@
 </p> 
 
 <h3>🎮<strong>Framework & Libraries Experience:</strong></h3> 
-        <a style="padding:8px;" href="https://www.mysql.com/" target="_blank"><img width="100" height="100" src="https://img.icons8.com/stickers/100/asp.png" alt="asp"/> </a>
+        <a  href="https://www.mysql.com/" target="_blank"><img  src="https://img.icons8.com/stickers/100/asp.png" alt="asp"/> </a>
         <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/80/000000/bootstrap.png"/> </a> 
          <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/react-native.png"/> </a>   
         
