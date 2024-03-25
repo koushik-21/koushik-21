@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+![image](https://github.com/koushik-21/koushik-21/assets/68914598/a488786a-ecc9-4e35-89a2-e544f773fdcf)<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Biswas</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
 🙋‍♂️ About Me
@@ -33,7 +33,7 @@
          <img width="80" height="80" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
      </a>
 </p> <br>
-🎮<h3><strong>Current Workstation:</strong></h3> 
+<h3>🎮<strong>Current Workstation:</strong></h3> 
 <div style="Padding-top:0px">
 <a href="https://playon24.com.bd/">  
     <img width="80" height="60" src="https://playon24.com.bd/img/logo.png" alt="PlayOn24"/>
