@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ **MAD_MAN**
 ## 🚀 Languages and Tools:
-<h3>💡<strong>Programming Languages I've been practicing</strong></h3> 
+<h3>💡<strong>Programming Experience:</strong></h3> 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img width="80" height="80" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/> </a>
     <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/">  <img src="https://img.icons8.com/color/80/000000/javascript.png"/> </a> 
