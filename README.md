@@ -25,7 +25,10 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/git.png"/> </a> 
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="80" height="80"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/80/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/> <img src="https://img.icons8.com/color/80/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/80/000000/c-programming.png"/></a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" 
+       width="80" height="80"/>  </a>
+     <a href="https://redux.js.org" target="_blank">  <img src="https://img.icons8.com/color/80/000000/c-plus-plus-logo.png"/> </a>
+     <a href="https://redux.js.org" target="_blank">    <img src="https://img.icons8.com/color/80/000000/c-programming.png"/> </a>
      <a href="https://redux.js.org" target="_blank"> <img src="https://icons8.com/icon/45490/c-sharp-logo-2"/> </a>
 </p>
 
