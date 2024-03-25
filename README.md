@@ -35,14 +35,15 @@
 </p> <br>
 <h3><strong>Current Workstation:</strong></h3> 
 <br>
+<div style="Padding-top:-10px">
 <a href="https://playon24.com.bd/">  
     <img width="80" height="60" src="https://playon24.com.bd/img/logo.png" alt="PlayOn24"/>
 </a>
-
+</div>
 ## Connect with me:
 <p align="left">
-<a href = "https://www.instagram.com/_21_biswas/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/Koushik.Biswas.21/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<a href = "https://www.instagram.com/_21_biswas/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNvwJwWPCGrcKNwxDSzkHWTNkfvJHnCNbdDdFmJbTbbdFPZppBRTPnMFqHcjZhfkfmLxxV"><img src="https://img.icons8.com/fluency/48/000000/mail.png"/>
 
 </p>
