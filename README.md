@@ -34,7 +34,6 @@
      </a>
 </p> <br>
 <h3><strong>Current Workstation:</strong></h3> 
-<br>
 <div style="Padding-top:0px">
 <a href="https://playon24.com.bd/">  
     <img width="80" height="60" src="https://playon24.com.bd/img/logo.png" alt="PlayOn24"/>
