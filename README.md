@@ -3,9 +3,9 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **MYSELF.**
-- 🌱 I’m currently learning **Data Structures, Algorithms, Programming Languages etc...**
-- 👯 I’m looking to collaborate on **OpenSource Projects.**
+- 🔭 I’m currently working on **MYSELF**
+- 🌱 I’m currently learning **Data Structures--Algorithms--Programming Languages**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ **MAD_MAN**
 ## 🚀 Languages and Tools:
 <p align="left"> 
@@ -26,6 +26,7 @@
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="80" height="80"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/80/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/> <img src="https://img.icons8.com/color/80/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/80/000000/c-programming.png"/></a>
+     <a href="https://redux.js.org" target="_blank"> <img src="https://icons8.com/icon/45490/c-sharp-logo-2"/> </a>
 </p>
 
 
