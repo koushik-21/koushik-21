@@ -34,7 +34,7 @@
 </p> 
 <h3>🎮<strong>Database experience Field:</strong></h3> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> </a>
-<a style="padding-left:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/80/000000/mysql-logo.png"/> </a>
+<a style="padding:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/80/000000/mysql-logo.png"/> </a>
  
 <h3>🎮<strong>Current Workstation:</strong></h3> 
 <div style="Padding-top:0px">
