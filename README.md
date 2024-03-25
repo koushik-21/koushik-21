@@ -10,6 +10,7 @@
 ## 🚀 Languages and Tools:
 <h3>🎮<strong>Programming Languages I've been practicing</strong></h3> 
 <p align="left"> 
+    <a><img width="80" height="80" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/></a>
     <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/">  <img src="https://img.icons8.com/color/80/000000/javascript.png"/> </a> 
     <a href="https://www.java.com" target="_blank"><img width="80" height="80" src="https://img.icons8.com/stickers/100/sql.png" alt="sql"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo.png"/> </a> 
@@ -26,8 +27,6 @@
      <a href="https://cplusplus.com" target="_blank">  <img src="https://img.icons8.com/color/80/000000/c-plus-plus-logo.png"/> </a>
      <a href="https://www.w3schools.com/c/" target="_blank">    <img src="https://img.icons8.com/color/80/000000/c-programming.png"/> </a>
      
-         <img width="80" height="80" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
-     </a>
 </p> 
 
 <h3>🎮<strong>Framework & Libraries Experience:</strong></h3> 
