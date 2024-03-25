@@ -36,7 +36,7 @@
 <h3><strong>Current Workstation:</strong></h3> 
 <br>
 <a href="https://playon24.com.bd/">  
-    <img width="80" height="80" src="https://playon24.com.bd/img/logo.png" alt="PlayOn24"/>
+    <img width="80" height="60" src="https://playon24.com.bd/img/logo.png" alt="PlayOn24"/>
 </a>
 
 ## Connect with me:
