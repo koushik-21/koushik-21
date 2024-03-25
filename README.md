@@ -32,23 +32,10 @@
          <img width="80" height="80" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
      </a>
 </p> 
-<div class="row">
-<div class="col-md-12">
-    <div class="col-md-6">
-        <h3>🎮<strong>Framework Experience:</strong></h3> 
+
+<h3>🎮<strong>Framework Experience:</strong></h3> 
         <a style="padding:8px;" href="https://www.mysql.com/" target="_blank"><img width="100" height="100" src="https://img.icons8.com/stickers/100/asp.png" alt="asp"/> </a>
 
-    </div>
-    <div class="col-md-6">
-        <h3>🎮<strong>Database Experience:</strong></h3> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> </a>
-<a style="padding:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/80/000000/mysql-logo.png"/> </a>
- 
-
-    </div>
-</div>
-    
-</div>
 <h3>🎮<strong>Database Experience:</strong></h3> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> </a>
 <a style="padding:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/80/000000/mysql-logo.png"/> </a>
