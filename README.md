@@ -4,7 +4,8 @@
 👨‍💻I am a passionate developer dedicated to building scalable web applications and solving complex problems. Currently, I'm focusing on strengthening my core fundamentals and contributing to the global developer community.
 
 
-🚀 About Me
+
+## 🚀 About Me
 
 🔭 Current Focus: Leveling up my professional skills and personal growth.
 
