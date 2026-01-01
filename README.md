@@ -33,6 +33,7 @@
         <a  href="https://www.mysql.com/" target="_blank">  <img  src="https://img.icons8.com/stickers/100/asp.png" alt="asp"/> </a>
         <a href="https://getbootstrap.com" target="_blank"> <img width="90" height="90" src="https://img.icons8.com/color/80/000000/bootstrap.png"/>   </a> 
         <a href="https://reactjs.org/" target="_blank">     <img width="80" height="90"src="https://img.icons8.com/color/80/000000/react-native.png"/> </a>   
+        <a href="https://[reactjs.org/](https://tailwindcss.com/)" target="_blank">     <img width="80" height="90"src="https://www.svgrepo.com/show/374118/tailwind.svg"/> </a>   
         
 <h3>🛡️<strong>Database & Other Experience:</strong></h3> 
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"     
