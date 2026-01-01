@@ -42,8 +42,7 @@
   <a style="padding:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/80/000000/mysql-logo.png"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/git.png"/> </a> 
   <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/80/000000/nodejs.png"/> </a> 
-  <a style="padding-left:8px;" href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" 
-       width="80" height="80"/> 
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/> 
   </a>
        
 <h3>🎮<strong>Companies I have worked for:</strong></h3> 
