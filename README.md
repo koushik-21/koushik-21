@@ -1,12 +1,16 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Biswas</h1>
-👨‍💻 <h3 align="center">Full Stack Web Application Developer from Bangladesh.</h3>
+👨‍💻<h3 align="center">Full Stack Web Application Developer from Bangladesh.</h3>
 I am a passionate developer dedicated to building scalable web applications and solving complex problems. Currently, I'm focusing on strengthening my core fundamentals and contributing to the global developer community.
 
 🚀 About Me
+
 🔭 Current Focus: Leveling up my professional skills and personal growth.
+
 🌱 Learning: Deep diving into Data Structures, Algorithms, and exploring new Programming Languages.
+
 👯 Collaboration: I’m actively looking to contribute to Open Source Projects.
+
 ⚡ Fun Fact: They call me MAD_MAN because of my obsession with clean code and late-night debugging.
 
 ## 🚀 Languages and Tools:
