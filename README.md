@@ -15,7 +15,7 @@
 
 ⚡ Fun Fact: They call me MAD_MAN because of my obsession with clean code and late-night debugging.
 
-## 🚀 Languages and Tools:
+## 🚀 Programming Languages and Tools:
 <h3>💡<strong>Programming Experience:</strong></h3> 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img width="80" height="80" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/> </a>
