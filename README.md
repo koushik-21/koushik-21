@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Biswas</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Koushik Biswas</h1>
 <h3 align="center">Full Stack Web Application Developer from Bangladesh.</h3>
 👨‍💻I am a passionate developer dedicated to building scalable web applications and solving complex problems. Currently, I'm focusing on strengthening my core fundamentals and contributing to the global developer community.
 
