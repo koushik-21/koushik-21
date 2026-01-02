@@ -45,7 +45,7 @@
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/> 
   </a>
        
-<h3>🎮<strong>Companies I have worked for:</strong></h3> 
+<h3>🎮<strong>Companies I have worked with:</strong></h3> 
 <div style="Padding-top:0px">
 <a href="https://playon24.com.bd/">  
     <img width="80" height="60" src="https://playon24.com.bd/img/logo.png" alt="PlayOn24"/>
